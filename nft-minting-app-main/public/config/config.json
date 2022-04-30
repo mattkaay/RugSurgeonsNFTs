@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x11ad520d412b64ef6db911b2a96ce071ecf0d145",
+  "SCAN_LINK": "https://etherscan.io/address/0x11ad520d412b64ef6db911b2a96ce071ecf0d145",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Cloudy NFTs",
+  "SYMBOL": "CNFT",
+  "MAX_SUPPLY": 101,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-first-cloudy-storm",
+  "SHOW_BACKGROUND": true
+}
