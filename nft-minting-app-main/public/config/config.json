@@ -1,12 +1,12 @@
 {
-  "CONTRACT_ADDRESS": "TBD",
-  "SCAN_LINK": "https://etherscan.io/address/TBD",
+  "CONTRACT_ADDRESS": "0x91CFc0fab400B889B45C932aD9628184Af5B9600",
+  "SCAN_LINK": "https://etherscan.io/address/0x91CFc0fab400B889B45C932aD9628184Af5B9600",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Rug Surgeons NFTs",
+  "NFT_NAME": "Rug Surgeon Sedation",
   "SYMBOL": "RSNFT",
   "MAX_SUPPLY": 3456,
   "WEI_COST": 20000000000000000,
