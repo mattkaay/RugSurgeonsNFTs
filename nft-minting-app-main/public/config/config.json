@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Rug Surgeon Sedation",
-  "SYMBOL": "RSNFT",
+  "NFT_NAME": "RugSurgeonSedation",
+  "SYMBOL": "RSSNFT",
   "MAX_SUPPLY": 3456,
   "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.02,
