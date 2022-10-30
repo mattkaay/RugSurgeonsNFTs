@@ -10,7 +10,7 @@
   "SYMBOL": "RSSNFT",
   "MAX_SUPPLY": 3456,
   "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/rugsurgeonsedation",
